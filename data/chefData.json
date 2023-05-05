@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Alice Smith",
+    "yearsOfExperience": 10,
+    "numRecipes": 50,
+    "likes": 1000
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Bob Johnson",
+    "yearsOfExperience": 5,
+    "numRecipes": 20,
+    "likes": 500
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://img.freepik.com/premium-photo/smiling-cheerfully-feeling-happy-pointing-side_1194-546534.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Cathy Lee",
+    "yearsOfExperience": 15,
+    "numRecipes": 100,
+    "likes": 1500
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "David Chen",
+    "yearsOfExperience": 8,
+    "numRecipes": 30,
+    "likes": 750
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Emily Brown",
+    "yearsOfExperience": 12,
+    "numRecipes": 75,
+    "likes": 1200
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.627686309.1680199718&semt=sph",
+    "chefName": "Frank Rodriguez",
+    "yearsOfExperience": 3,
+    "numRecipes": 10,
+    "likes": 250
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Alice Smith",
+    "yearsOfExperience": 10,
+    "numRecipes": 50,
+    "likes": 1000,
+    "bio": "Alice Smith is an experienced chef with a passion for creating delicious and healthy meals. She specializes in vegetarian and vegan cuisine.",
+    "recipes": [
+      {
+        "recipeName": "Mushroom Risotto",
+        "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJlY2lwZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "ingredients": [
+          "Arborio rice",
+          "Mushrooms",
+          "Vegetable broth",
+
+          "Garlic",
+          "Onion"
+        ],
+        "cookMethod": "In a small bowl, whisk together olive oil, lemon juice, garlic, thyme, rosemary, salt, and pepper."
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&webp=true&resize=300,272",
+        "ingredients": [
+          "Beets",
+          "Goat cheese",
+          "Chicken",
+          "Arugula",
+          "Balsamic vinegar",
+          "Olive oil"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      },
+      {
+        "recipeName": "Vegetable Curry With Rice",
+        "image": "https://thumbs.dreamstime.com/b/mexican-food-recipes-revoltillo-de-huevos-scrambled-eggs-la-dominicana-portioned-skillet-dark-stone-table-copy-space-102858644.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Tomatoes",
+          "Potatoes",
+          "Carrots",
+          "Onion",
+          "Coconut milk",
+          "Curry powder"
+        ],
+        "cookMethod": "Add linguine to the skillet and toss to coat in the sauce."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Bob Johnson",
+    "yearsOfExperience": 5,
+    "numRecipes": 20,
+    "likes": 500,
+    "bio": "Bob Johnson is a classically trained chef with a love for comfort food. His specialties include mac and cheese, fried chicken, and barbecue.",
+    "recipes": [
+      {
+        "recipeName": "Buttermilk Fried Chicken",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-stuffed-pasta-agnolotti-porcini-mushrooms-traditional-piedmont-170590788.jpg",
+        "ingredients": [
+          "Chicken",
+          "Buttermilk",
+          "Flour",
+          "Paprika",
+          "Garlic powder",
+          "Salt",
+          "Pepper"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      },
+      {
+        "recipeName": "Mac and Cheese",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipe-agnolotti-del-plin-filled-pasta-italian-food-recipe-agnolotti-del-plin-filled-pasta-188268743.jpg",
+        "ingredients": [
+          "Cheddar cheese",
+          "Milk",
+          "Butter",
+          "Flour",
+          "Bread crumbs"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      },
+      {
+        "recipeName": "Pulled Beef Sandwiches",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-pisarei-borlotti-beans-189700920.jpg",
+        "ingredients": [
+          "Pork shoulder",
+          "Barbecue sauce",
+          "Onion",
+          "Hamburger buns",
+          "Pickles"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://img.freepik.com/premium-photo/smiling-cheerfully-feeling-happy-pointing-side_1194-546534.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Cathy Lee",
+    "yearsOfExperience": 15,
+    "numRecipes": 100,
+    "likes": 1500,
+    "bio": "Cathy Lee is a chef with a background in Asian cuisine. Her specialties include sushi, ramen, and stir fry.",
+    "recipes": [
+      {
+        "recipeName": "Spicy Tuna Roll",
+        "image": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHJlY2lwZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "ingredients": [
+          "Sushi rice",
+          "Nori",
+          "Tuna",
+          "Sriracha",
+          "Mayonnaise",
+          "Soy sauce"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      },
+      {
+        "recipeName": "Roasted Beet Salad",
+        "image": "https://media.istockphoto.com/id/1400679988/photo/healthy-leaves-mix-salad.jpg?b=1&s=170667a&w=0&k=20&c=qCQISyr7crT5OEPS2BbLuhKzRtRePBjqDpwWtjhYyiA=",
+        "ingredients": [
+          "Beets",
+          "Goat cheese",
+          "Walnuts",
+          "Arugula",
+
+          "Olive oil"
+        ],
+        "cookMethod": "Add diced tomatoes and white wine to the skillet. Bring to a boil and let simmer for 5-7 minutes."
+      },
+      {
+        "recipeName": "Vegetable Curry",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-finanziera-traditional-piedmont-recipe-hen-crest-meat-livers-offal-191921512.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Tomatoes",
+          "Potatoes",
+          "Carrots",
+          "Onion",
+
+          "Curry powder"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "David Chen",
+    "yearsOfExperience": 8,
+    "numRecipes": 30,
+    "likes": 750,
+    "bio": "David Chen is a chef with a background in Asian cuisine/Koren & Indian. His specialties include sushi, ramen, and stir fry.",
+    "recipes": [
+      {
+        "recipeName": "Beef Steak",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-grilled-veal-fillet-mushrooms-italian-food-recipes-grilled-veal-fillet-mushrooms-188294018.jpg",
+        "ingredients": [
+          "Beef Steak",
+          "Nori",
+          "Chicken",
+          "Sriracha",
+
+          "Soy sauce"
+        ],
+        "cookMethod": "Add shrimp to the skillet and cook for 3-4 minutes, until pink and cooked through."
+      },
+
+      {
+        "recipeName": "Roasted Chicken",
+        "image": "https://thumbs.dreamstime.com/b/set-dominican-food-recipes-arroz-moro-asado-salad-white-rice-set-dominican-food-recipes-arroz-moro-asado-salad-274494964.jpg",
+        "ingredients": [
+          "Beets",
+          "Goat cheese",
+          "Chicken",
+          "Arugula",
+
+          "Olive oil"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      },
+      {
+        "recipeName": "Fish Fry",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-salmon-boiled-barley-saffron-sauce-189689865.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Tomatoes",
+          "Potatoes",
+          "Carrots",
+          "Onion"
+        ],
+        "cookMethod": "Brush the chicken breasts with the herb mixture, making sure to coat both sides."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "chefName": "Emily Brown",
+    "yearsOfExperience": 12,
+    "numRecipes": 75,
+    "likes": 1200,
+    "bio": "Emily Brown is a chef with a background in Asian/Bengali cuisine. Her specialties include sushi, ramen, and stir fry.",
+    "recipes": [
+      {
+        "recipeName": "Spicy Tuna Sushi",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-salad-trout-freshwater-shrimp-italian-food-recipes-salad-trout-freshwater-shrimp-189579894.jpg",
+        "ingredients": ["Sushi rice", "Nori", "Tuna", "Sriracha", "Soy sauce"],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      },
+      {
+        "recipeName": "Mashroom Beet Salad",
+        "image": "https://media.istockphoto.com/id/1359853828/photo/delicious-persimmon-salad-with-pomegranate-and-arugula.jpg?b=1&s=170667a&w=0&k=20&c=c6pnLQ8BAc6z7WzI6f0LhpuxxlcKtPTp6Bir87pN2NY=",
+        "ingredients": [
+          "Beets",
+          "Goat cheese",
+          "Walnuts",
+          "Arugula",
+          "Balsamic vinegar",
+          "Olive oil"
+        ],
+        "cookMethod": "Brush the chicken breasts with the herb mixture, making sure to coat both sides."
+      },
+      {
+        "recipeName": "Vegetable Curry",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-tagliatelle-pasta-asparagus-186617432.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Tomatoes",
+
+          "Carrots",
+          "Onion",
+
+          "Curry powder"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.627686309.1680199718&semt=sph",
+    "chefName": "Frank Rodriguez",
+    "yearsOfExperience": 3,
+    "numRecipes": 10,
+    "likes": 250,
+    "bio": "Frank Rodriguez is a chef with a background in Asian/Chinese cuisine. Her specialties include sushi, Fry, ramen, Chowmin, and stir fry.",
+    "recipes": [
+      {
+        "recipeName": "Spicy Chowmin",
+        "image": "https://media.istockphoto.com/id/1439228262/photo/delicious-fried-oyster-mushrooms-and-shiitake-mushrooms-with-vegetables-in-a-spicy-sauce.jpg?s=1024x1024&w=is&k=20&c=1ZXhHkyaa5EKO6n-TMhXfyJBWPKpA30UkYM8w0vpDcM=",
+        "ingredients": [
+          "Sushi rice",
+          "Nori",
+          "Chowmin",
+          "Sriracha",
+          "Mayonnaise",
+          "Soy sauce"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      },
+      {
+        "recipeName": "Chicken Beet Salad",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-ribs-lamb-balsamic-vinegar-italian-food-recipes-ribs-lamb-balsamic-vinegar-176089604.jpg",
+        "ingredients": [
+          "Beets",
+          "Goat cheese",
+          "Walnuts",
+          "Arugula",
+          "Balsamic vinegar",
+          "Olive oil"
+        ],
+        "cookMethod": "Add linguine to the skillet and toss to coat in the sauce."
+      },
+      {
+        "recipeName": "Koren Ramen",
+        "image": "https://thumbs.dreamstime.com/b/italian-food-recipes-beans-soup-maltagliati-pasta-188272549.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Tomatoes",
+          "Ramen",
+          "Carrots",
+          "Onion",
+          "Coconut milk",
+          "Curry powder"
+        ],
+        "cookMethod": "Grill the chicken for 6-8 minutes per side, and the internal temperature reaches 165°F."
+      }
+    ]
+  }
+]
